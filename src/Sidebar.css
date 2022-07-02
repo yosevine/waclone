@@ -1,0 +1,27 @@
+.sidebar {
+    border: 5px blue;
+}
+
+.sidebar_header {
+    border: 5px blue;
+    justify-content: space-between;
+}
+
+.sidebar_headerRight {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 10vw;
+
+}
+
+.sidebar_chats {
+    background-color: coral;
+    cursor: pointer;
+}
+
+.sidebarChat_info {
+    border: solid 1px yellow
+
+}
+

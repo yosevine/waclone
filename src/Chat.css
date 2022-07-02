@@ -1,0 +1,34 @@
+.chat {
+    flex: 1;
+    background-color: palevioletred;
+}
+
+.chat_header {
+    border: 2px solid black;
+}
+
+.chat_body {
+    border: 2px solid black;
+
+}
+
+.chat_footer {
+    border: 2px solid black;
+
+}
+
+.chat_message {
+    position: relative;
+    padding: 10px;
+    background-color: cadetblue;
+}
+
+.chat_name {
+    position: absolute;
+    top: -15px;
+}
+
+.chat_timestamp {
+    position: absolute;
+    top: +35px;
+}
